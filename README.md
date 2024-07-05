@@ -1,6 +1,6 @@
 # VR/AR_Project
 
-<img src="https://github.com/yejinsohn/VRAR_Project/assets/104317217/0b90eaa6-1840-4630-9548-18bd5f26c1b4" width="800" height="400"/>
+<img src="https://github.com/yejinsohn/VRAR_Project/assets/104317217/0b90eaa6-1840-4630-9548-18bd5f26c1b4" width="80%" height="80%"/>
 
 #### ⬆️ 창업 동아리 사업 슬로건
 
